@@ -28,6 +28,10 @@ aeruginosa genomes (CRISPRCasTyper). Spacers of these defense systems were ident
 Figure 3.- CRISPR-Cas types in Pseudomonas aeruginosa.
 Percentage of strains that possess each type of CRISPR-Cas system (and not possessing CRISPR-Cas system).
 
+
+The heatmap, barplots and statistical analysis were performed through R scripts using the pheatmap, ggplot2 and dhyper library, respectively.
+
+
 We were able to determine the wide diversity of phages in Pseudomonas aeruginosa thanks to a deep clustering process and the use of multiple strain metadata. We considered as a complete phage any sequence larger than 8 kb. 
 
 
