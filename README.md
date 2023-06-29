@@ -50,9 +50,10 @@ We searched for spacers against phages related to strains without CRISPR-Cas sys
 
 ![imagen](https://github.com/amorrod/JABI2023/assets/137997372/e8b6822d-9de1-4ba7-b06b-d792fefbb5ea)
 
-B ![imagen](https://github.com/amorrod/JABI2023/assets/137997372/e59c1c75-1432-4936-a52d-8e5731fdfa69)
+B      
+ ![imagen](https://github.com/amorrod/JABI2023/assets/137997372/e59c1c75-1432-4936-a52d-8e5731fdfa69)
 
-Figure 12.- Differences in the number of phages in strains with and without CRISPR-Cas systems.
+Figure 6.- Differences in the number of phages in strains with and without CRISPR-Cas systems.
 It is shown the bar plots about significant differences in the number of phages in type I-F CRISPR-Cas system strains and no CRISPR strains. It also shows the number of spacers against decreased or increased phages and the p-value about the difference of each phage. The gray bars represent the expected value calculated from the number of genomes containing the phages and the total number of genomes with or without the CRISPR array. The observed value bars are colored in red when the observed number of phages is less than expected or in green when the observed values of phages is greater than expected.
 (A) The bar plot shows phages that are significantly reduced in strains with type I-F CRISPR-Cas systems. (B) The bar plot shows phages that are significantly increased in strains without CRISPR-Cas systems.
 
@@ -60,5 +61,7 @@ It is shown the bar plots about significant differences in the number of phages 
 
 Knowing which bacteriophages can infect a certain bacterial species, as well as how bacteria defend themselves against these viruses, is essential for a better understanding of bacterial biology and for developing alternative approaches in the battle against bacteria, such as phage therapy.
 
+
+Rubio, A., Sprang, M., Garzón, A., Moreno-Rodriguez, A., Pachón-Ibáñez, M. E., Pachón, J., Andrade-Navarro, M. A., & Pérez-Pulido, A. J. (2023). Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems. Science Advances, 9(12). https://doi.org/10.1126/SCIADV.ADD8911
 
 
