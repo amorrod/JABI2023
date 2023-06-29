@@ -13,7 +13,8 @@ The red pathway shows the viral infection of a bacterium by a bacteriophage, whi
 
 Phage sequences were searched for and classified by taxonomy in all genomes of Pseudomonas aeruginosa. In order to eliminate redundancy between sequences, phages were clustered by similarity. 
 
-![imagen](https://github.com/amorrod/JABI2023/assets/137997372/c2040ab7-a61e-4bd9-95a6-847b7054f429)
+![imagen](https://github.com/amorrod/JABI2023/assets/137997372/603e96d5-4347-486d-a613-f45146dce436)
+
 
 Figure 2.- Protocol of phage search and clustering.
 The first step was the prediction and identification of all phages from the avalaible genomes of Pseudomonas aeruginosa using the bioinformatic software Phigaro. The second step was the clustering of the phage sequences to remove the redundancy between sequences using the clustering tool MeShClust.
